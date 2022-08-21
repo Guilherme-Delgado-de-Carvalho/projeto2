@@ -1,3 +1,2 @@
 Olá sou uma nova linha
 Olá sou a linha 2
-Olá sou a linha 3
