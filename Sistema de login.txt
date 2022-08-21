@@ -1,2 +1,3 @@
 seu nome
 sua senha
+sua idade
